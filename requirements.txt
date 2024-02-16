@@ -1,13 +1,12 @@
-aiohttp
-py-cord
-pyuac
-pywin32
 pip install --upgrade pip
 aiohttp
 py-cord
 pyuac
 pywin32
 aiohttp
+py-cord
+pyuac
+pywin32
 httpx
 requests
 psutil
