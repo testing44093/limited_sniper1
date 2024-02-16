@@ -6,7 +6,6 @@ pywin32
 aiohttp
 py-cord
 pyuac
-pywin32
 httpx
 requests
 psutil
